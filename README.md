@@ -10,7 +10,9 @@ https://www.bbc.com/news/uk-england-derbyshire-51904810
 The parameters of interest are \alpha, \beta, I(0). We assume
 
 y_i | \alpha, \beta, I(0) \sim Binom(N, R(\alpha, \beta, I(0))/N )
+
 \alpha, \beta \sim Ga(0,1)
+
 I(0) \sim Binom( N, 5/N)
 
 N has a fixed value of 261, the population village. 80% of the population died.
