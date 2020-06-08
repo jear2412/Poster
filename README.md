@@ -3,7 +3,8 @@ Poster session at CIMAT (Centro de Investigacion en Matematicas) 2020. The repos
 
 We present estimation of the parameters of a SIR model applied to Eyam, UK 1666, where there was an outbreak of the black plague. You can read about it here
 
-https://www.bbc.com/news/uk-england-35064071
+https://www.bbc.com/news/uk-england-35064071 
+
 https://www.bbc.com/news/uk-england-derbyshire-51904810
 
 The parameters of interest are \alpha, \beta, I(0). We assume
