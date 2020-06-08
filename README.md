@@ -6,4 +6,5 @@ Files:
 
 1) Eyam_time_SIR.csv
 Contains observed deaths from Black Plague in Eyam, UK 1666
+2) Poster.pdf
 
