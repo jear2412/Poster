@@ -1,5 +1,5 @@
 # Poster
-Poster session at CIMAT (Centro de Investigacion en Matematicas) 2020. The repository includes the code to reproduce the results presented. Any doubts please email me at javier.aguilar at cimat dot com 
+Poster session at CIMAT (Centro de Investigacion en Matematicas) June 10,2020. The repository includes the code to reproduce the results presented. Any doubts please email me at javier.aguilar at cimat dot com 
 
 We present estimation of the parameters of a SIR model applied to Eyam, UK 1666, where there was an outbreak of the black plague. You can read about it here
 
