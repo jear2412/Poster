@@ -17,7 +17,7 @@ I(0) \sim Binom( N, 5/N)
 
 N has a fixed value of 261, the population village. 80% of the population died.
 
-The posterior is multimodal in all parameters. The code uses the emcee and t walk to sample from the posterior. Both samplers find the correct set of parameters. Parallel Tempering experiments were done but are not included (yet!).
+The posterior is multimodal in all parameters. The code uses the emcee and t walk to sample from the posterior. Both samplers find the correct set of parameters. Parallel Tempering experiments were done but are not included in the poster. 
 
 ---------------------------------------------------------------------------
 
